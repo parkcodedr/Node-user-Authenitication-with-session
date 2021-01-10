@@ -1,1 +1,1 @@
-# Node-user-Authenitication-with-session
+# Node-user-Authenitication-with-JWT
